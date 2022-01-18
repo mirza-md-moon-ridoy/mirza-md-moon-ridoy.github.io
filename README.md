@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mirza-md-moon-ridoy/mirza-md-moon-ridoy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who Am I
 
-### Markdown
+<p> Mirza Md Moon Ridoy he is a wildlife photographer and a student.
+He is from Bogura Bangladesh. His dream one day he work with natgeo as a wildlife photographer.
+He start his photography with a mobile phone. He take first landscape images then he realize his favourite things is Photography. He love to shot animal picture this time he have no DSLR camera.</p>
+<p> In 2018 he passed his ssc exam after he buy a camera and start. His dream passion.
+His work feature published in many pages. </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>
+In 2019 he win national youth photography contests in Bangladesh and a merit list from other photography contest. In 2020 "35 National Award" his images nominated 100 mobile category and many more photography contest he won. Recently UNESCO silk road photo completion his one Images is Short listed. I hope you guys pray for him. And a great news 2021 he won national climate change international award. His favourite things is he won 5-6 competition just 1 images. He always love to clicking images. In 2021 natgeohr loved his work and they always supports his work.
+</p>
 
-```markdown
-Syntax highlighted code block
+<p>
+  Recently he received frist prize at DSLR category in scg & colony of art group. He got feature in canon india official pages. Recently he got a mail from green screen talent scout they want to influence him and work with their brand. 
+And his images feature in national geographic & canon india officials.
+  
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+### Award
+**UNESCO** <br/>
+**National Geography** <br/>
+**35 National Award** <br/>
+**Canon India Official**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Some Works
+1)
+![271544838_460469182476510_5554696417126157511_n](https://user-images.githubusercontent.com/97941782/149907848-265e08f2-09ee-4887-b3d5-19acd9811ae0.jpg)
 
-[Link](url) and ![Image](src)
-```
+2)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![269996089_296696555808272_6889144718413783276_n](https://user-images.githubusercontent.com/97941782/149908089-9bd42106-a778-40d4-a446-fdec1c13f317.jpg)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mirza-md-moon-ridoy/mirza-md-moon-ridoy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
