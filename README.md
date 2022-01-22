@@ -6,11 +6,9 @@
 <p> Mirza Md Moon Ridoy he is a wildlife photographer and a student.
 He is from Bogura Bangladesh. His dream one day he work with natgeo as a wildlife photographer.
 He start his photography with a mobile phone. He take first landscape images then he realize his favourite things is Photography. He love to shot animal picture this time he have no DSLR camera.</p>
-<p>
-  
-![20210717165335__MG_5853-01](https://user-images.githubusercontent.com/97941782/150140981-ba867dee-369c-4d2b-9f2c-c11c58a842ed.jpeg)
 
-</p>
+![20210717165335__MG_5853-01](https://user-images.githubusercontent.com/97941782/150140981-ba867dee-369c-4d2b-9f2c-c11c58a842ed.jpeg) 
+
 <p> In 2018 he passed his ssc exam after he buy a camera and start. His dream passion.
 His work feature published in many pages. </p>
 
